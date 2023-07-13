@@ -7,3 +7,4 @@ If not already done, install Docker Compose with Docker Desktop (v2.10+)
 3-Open http://localhost:3000 in your favorite web browser.
 
 PS: to stop the Docker containers, run docker compose down --remove-orphans
+
